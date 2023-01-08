@@ -1,0 +1,115 @@
+
+.box{
+    position: fixed;
+     border-radius: 8px;
+ margin-left: 33%;margin-top: 10%;
+   text-align: center;
+   background-color: rgb(255, 255, 255);width: 32%;height: 480px;
+   box-shadow:0px 2px 14px -8px;
+}
+.sign{
+font-family:   Helvetica, Arial, sans-serif;font-size: 28px;font-weight: bold;
+text-align: left;padding:  7px 0px 0px 10px;color: #1c1e21;
+}
+.text{
+font-family: Helvetica, Arial, sans-serif;font-size: 12px;
+text-align: left;padding-left: 14px;color: #606770;
+}
+.hdline{
+margin: 12px 0px;
+    border-bottom: 1px solid #dadde1;
+    text-align: center;
+}
+.inputsign{
+
+    width: 150px;
+    margin-top: 2px;
+    padding: 8px;
+position: relative;
+right:  0.8%;
+border: none;border-radius: 5px;
+border: 1px solid #606770;
+}
+.inputsign1{
+    width: 150px;
+    margin-top: 2px;
+    padding: 8px;
+position: relative;
+left:   0.8%;
+border: none;border-radius: 5px;
+border: 1px solid #606770;
+}
+.inputsign2{
+    width: 320px;
+    margin-top: 7px;
+    padding: 8px;
+    border: none;border-radius: 5px;
+    position: relative;
+    right:0.3%;
+    border: none;
+    border: 1px solid #606770;
+}
+.date{
+    font-family: Helvetica, Arial, sans-serif;font-size: 11px;;
+text-align: left;padding: 16px 14px 3% 4%;; color: #606770;text-decoration: underline;
+}
+.inputdate{
+    width: 106px;
+ margin: -4% 0% 2% 2%;
+    padding: 5px;
+position: relative;
+right: 1%;
+border: none;border-radius: 5px;
+border: 1px solid
+}
+.gender{
+    font-family: Helvetica, Arial, sans-serif;font-size: 11px;;
+text-align: left;padding: 7px 14px 3% 4%;; color: #606770;text-decoration: underline;
+}
+.male{
+    font-family: Helvetica, Arial, sans-serif;font-size: 16px;
+    border-radius: 4px;
+    border: 1px solid #606770;
+    padding: 5px 22px;
+   text-align: left;
+background-color: #ffffff;
+
+position: relative;
+right: 1%;
+}
+.female{
+    font-family: Helvetica, Arial, sans-serif;font-size: 16px;
+    border-radius: 4px;
+    border: 1px solid #606770;
+    padding: 5px 16px;
+   text-align: left;
+background-color: #ffffff;
+
+position: relative;
+left: 0%;
+}
+.custom{
+    font-family: Helvetica, Arial, sans-serif;font-size: 16px;
+    border-radius: 4px;
+    border: 1px solid #606770;
+    padding: 5px 16px;
+   text-align: left;
+background-color: #ffffff;
+position: relative;
+left: 1%;
+
+}
+.btn{
+    margin-top: 2%;
+    border-radius: 6px;
+    font-family:  Helvetica, Arial, sans-serif; font-size: 18px;
+        background-color: #00a400;
+        color: white;
+        border: none;
+        padding: 5px 55px;
+        cursor: pointer;
+      }
+
+      .btn:active {
+        opacity: 0.4;
+      }
